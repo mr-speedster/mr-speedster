@@ -5,6 +5,8 @@
 - ✨✨✨✨✨✨✨✨✨✨✨✨✨
 #  🌈Software Engineer💻
 
+# ✨The best way to predict the future is to create it😎
+
 - 🔭 LOOKING TO COLLABORATE ON OPEN SOURCE⚡️
 
 - 💬 Ask Me About Technology💡
@@ -13,9 +15,11 @@
 
 # 🌈Fullstack Developer💥
 
+
 ### 🪐 WEBSITES
-* <img src="https://img.icons8.com/nolan/17/world-of-warcraft.png"/>[PROFESSIONAL](https://mr-speedster.github.io/my_first_site/)
+* <img src="https://img.icons8.com/nolan/17/world-of-warcraft.png"/>[MYWEBSITE](https://mr-speedster.github.io/my_first_site/)
   
 ### ☄️ TOUCH ME
 * <img src="https://img.icons8.com/clouds/25/000000/instagram-new--v2.png"/>[INSTAGRAM](https://www.instagram.com/mr_s_p_e_e_d_s_t_e_r/)
-<hr>
+
+
