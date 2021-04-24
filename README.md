@@ -5,8 +5,6 @@
 - ✨✨✨✨✨✨✨✨✨✨✨✨✨
 #  🌈Software Engineer💻
 
-# ✨The best way to predict the future is to create it😎
-
 - 🔭 LOOKING TO COLLABORATE ON OPEN SOURCE⚡️
 
 - 💬 Ask Me About Technology💡
@@ -23,3 +21,4 @@
 * <img src="https://img.icons8.com/clouds/25/000000/instagram-new--v2.png"/>[INSTAGRAM](https://www.instagram.com/mr_s_p_e_e_d_s_t_e_r/)
 
 
+# ✨The best way to predict the future is to create it😎
