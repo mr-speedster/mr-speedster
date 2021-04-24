@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning🧑‍💻 **🔥Laravel🔥**
 
-- 👨‍💻 All of my projects are available at [💠https://github.com/mr-speedster💠](💠https://github.com/mr-speedster💠)
+- 👨‍💻 All of my projects are available at [https://github.com/mr-speedster](https://github.com/mr-speedster)
 
 - 💬 Ask me about **🌈software Engineer🌈**
 
