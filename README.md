@@ -11,7 +11,7 @@
 
 - 🧑‍💻Learning Endless🤓 for Earning Endless😎
 
-# 🌈Fullstack Developer💥
+# 🌈Fullstack Web Developer💥
 
 
 ### 🪐 WEBSITES
