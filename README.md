@@ -15,7 +15,7 @@
 
 
 ### 🪐 WEBSITES
-* <img src="https://img.icons8.com/nolan/17/world-of-warcraft.png"/>[MYWebsite](https://mr-speedster.github.io/my_first_site/)
+* <img src="https://img.icons8.com/nolan/17/world-of-warcraft.png"/>[MYWebsite](https://ajith.lovestoblog.com/)
 * <img src="https://img.icons8.com/nolan/17/world-of-warcraft.png"/>[MYBlog](http://ajithditto.blogspot.com//)
   
 ### ☄️ TOUCH ME
