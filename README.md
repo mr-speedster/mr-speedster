@@ -2,7 +2,7 @@
 # 🌈
 #      🌟AJITH D😎        
 #      mr-speedster       
-- ✨✨✨✨✨✨✨✨✨✨✨✨
+###   --------------------
 #  🌈Software Engineer💻
 
 - LOOKING 🔭 TO COLLABORATE ON OPEN SOURCE⚡️
