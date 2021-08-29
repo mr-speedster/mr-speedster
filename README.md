@@ -1,6 +1,6 @@
 
 # 
-#      🌟AJITH D😎        
+#      🌟AJITH D        
 #      mr-speedster       
 ###   -------------------------------
 #  🌈Software Engineer💻
