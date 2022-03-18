@@ -3,7 +3,7 @@
 #      🌟AJITH D        
 #      mr-speedster       
 ###   -------------------------
-#  🌈Software Engineer💻
+# Software Engineer💻
 
 - LOOKING 🔭 TO COLLABORATE ON OPEN SOURCE⚡️
 
@@ -11,7 +11,7 @@
 
 - 🧑‍💻Learning Endless🤓 for Earning Endless😎
 
-# 🌈Fullstack Web Developer💥
+# Fullstack Web Developer
 
 
 ### 🌐 WEBSITES
@@ -24,4 +24,4 @@
 * [Twitter](https://twitter.com/AjithD47448694/)
 
 
-# ✨The best way to predict the future is to create it😎
+# The best way to predict the future is to create it😎
