@@ -9,8 +9,6 @@
 
 -  Ask Me About Technology💡
 
-- 🧑‍💻Learning Endless🤓 for Earning Endless😎
-
 # Fullstack Web Developer
 
 
