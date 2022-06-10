@@ -13,7 +13,7 @@
 
 
 ### 🌐 WEBSITES
-* [MYWebsite](http://ajith.lovestoblog.com/)
+* [MYWebsite](http://ajith.lovestoblog.com/](https://mr-speedster.github.io/MyWeb/)
 * [MYBlog](http://ajithditto.blogspot.com/)
   
 ### 📳 TOUCH ME
