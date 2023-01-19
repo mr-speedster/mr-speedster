@@ -11,7 +11,7 @@
 
 ## Laravel Developer
 ## Python Programmer
-## ML || AI Enthusiast
+## ML | AI Enthusiast
 
 
 ### 🌐 WEBSITES
