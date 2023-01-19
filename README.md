@@ -3,15 +3,15 @@
 #      🌟AJITH D        
 #      mr-speedster       
 ###   -------------------------
-# Software Engineer💻
+## Software Engineer💻
 
 - LOOKING 🔭 TO COLLABORATE ON OPEN SOURCE⚡️
 
 -  Ask Me About Technology💡
 
-# Laravel Developer
-# Python Programmer
-# ML || AI Enthusiast
+## Laravel Developer
+## Python Programmer
+## ML || AI Enthusiast
 
 
 ### 🌐 WEBSITES
