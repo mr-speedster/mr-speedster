@@ -10,6 +10,8 @@
 -  Ask Me About Technology💡
 
 # Laravel Developer
+# Python Programmer
+# ML || AI Enthusiast
 
 
 ### 🌐 WEBSITES
