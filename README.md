@@ -10,6 +10,7 @@
 -  Ask Me About Technology💡
 
 ## Laravel Developer
+## Data Analyst
 ## Python Programmer
 ## ML | AI Enthusiast
 
