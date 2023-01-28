@@ -25,6 +25,6 @@
 * [Twitter](https://twitter.com/AjithD47448694/)
 
 ### Google Digital Badge
-![Google Digital Badge](https://templates.images.credential.net/16722171176440784346699372916351.png =100x100)
+![Google Digital Badge](googleBadge.png)
 
 # The best way to predict the future is to create it😎
