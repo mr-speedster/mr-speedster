@@ -24,6 +24,6 @@
 * [facebook](https://www.facebook.com/profile.php?id=100037743652992/)
 * [Twitter](https://twitter.com/AjithD47448694/)
 
-![Google Digital Badge]([http://url/to/img.png](https://templates.images.credential.net/16722171176440784346699372916351.png))
+![Google Digital Badge](https://templates.images.credential.net/16722171176440784346699372916351.png)
 
 # The best way to predict the future is to create it😎
