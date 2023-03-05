@@ -19,6 +19,7 @@
 * [MYBlog](http://ajithditto.blogspot.com/)
   
 ### 📳 TOUCH ME
+* [LinkedIn](https://www.linkedin.com/in/ajith-d-0194431b5/)
 * [Instagram](https://www.instagram.com/mr_speed_ster_/)
 * [facebook](https://www.facebook.com/profile.php?id=100037743652992/)
 * [Twitter](https://twitter.com/AjithD47448694/)
