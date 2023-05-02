@@ -16,7 +16,7 @@
 
 ### 🌐 WEBSITES
 * [MYWebsite](https://mr-speedster.github.io/MyWeb/)
-* [MYBlog](http://ajithditto.blogspot.com/)
+
   
 ### 📳 TOUCH ME
 * [LinkedIn](https://www.linkedin.com/in/ajith-d-0194431b5/)
