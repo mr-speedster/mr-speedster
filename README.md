@@ -4,8 +4,6 @@
 ###   -------------------------
 ## Software Engineer💻
 
-- LOOKING 🔭 TO COLLABORATE ON OPEN SOURCE⚡️
-
 -  Ask Me About Technology💡
 
 ## Laravel Developer
