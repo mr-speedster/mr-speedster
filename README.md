@@ -6,14 +6,14 @@
 
 -  Ask Me About Technology💡
 
-## Laravel Developer
+## Web Developer
 ## Data Analyst
 ## Python Programmer
 ## ML | AI Enthusiast
 
 
 ### 🌐 WEBSITES
-* [MYWebsite](https://mr-speedster.github.io/MyWeb/)
+* [MYWeb](https://mr-speedster.github.io/MyWeb/)
 
   
 ### 📳 TOUCH ME
