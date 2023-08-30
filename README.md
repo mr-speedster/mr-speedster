@@ -2,7 +2,7 @@
 # 
 #      🌟AJITH D             
 ###   -------------------------
-## Software Engineer💻
+## 💻Software Developer @SOTI
 
 -  Ask Me About Technology💡
 
