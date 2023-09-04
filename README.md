@@ -2,7 +2,7 @@
 # 
 #      🌟AJITH D             
 ###   -------------------------
-## 💻Software Developer @SOTI
+## 💻Software Developer [@SOTI](https://soti.net/)
 
 -  Ask Me About Technology💡
 
