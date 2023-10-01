@@ -39,7 +39,7 @@
 <h2 align="left">🛠 Language and tools</h2>
 
 ###
-
+<br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
@@ -161,7 +161,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
-
+<br>
 ###
 
 <h2 align="left">🔥   My Stats :</h2>
@@ -200,6 +200,7 @@
 
 ###
 
+<h2 align="center">The best way to predict the future is to create it😎</h2>
+
 ###
 
-<h2 align="center">The best way to predict the future is to create it😎</h2>
