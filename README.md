@@ -32,7 +32,7 @@
 
 ###
 
-<h4 align="left">- 🔭 I’m working as a Software Developer<br>- 📚 I'm currently learning Data Science<br>-🧑🏻‍💻Python Programmer<br>-💡ML | AI Enthusiast</h4>
+<h4 align="left">- 🔭 I’m working as a Software Developer @SOTI<br>- 📚 I'm currently learning Data Science<br>-🧑🏻‍💻Python Programmer<br>-💡ML | AI Enthusiast</h4>
 
 ###
 
