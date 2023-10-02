@@ -28,15 +28,15 @@
 
 ###
 
-<h2 align="left">👩‍💻  About Me</h2>
+<h1 align="left">👩‍💻  About Me</h1>
 
 ###
 
-<h4 align="left">- 🔭 I’m working as a Software Developer @SOTI<br>- 📚 I'm currently learning Data Science<br>-🧑🏻‍💻Python Programmer<br>-💡ML | AI Enthusiast</h4>
+<h2 align="left">- 🔭 I’m working as a Software Developer @SOTI<br>- 📚 I'm currently learning Data Science<br>-🧑🏻‍💻Python Programmer<br>-💡ML | AI Enthusiast</h2>
 
 ###
 
-<h2 align="left">🛠 Language and tools</h2>
+<h1 align="left">🛠 Language and tools</h1>
 
 ###
 
@@ -166,7 +166,7 @@
 
 ###
 
-<h2 align="left">🔥   My Stats :</h2>
+<h1 align="left">🔥   My Stats :</h1>
 
 ###
 
@@ -176,7 +176,7 @@
 
 ###
 
-<h2 align="left">🎯Current Focus</h2>
+<h1 align="left">🎯Current Focus</h1>
 
 ###
 
