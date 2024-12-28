@@ -11,11 +11,11 @@
   <a href="https://stackoverflow.com/users/14853838/ajith-d?tab=profile" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
   </a>
+  <a href="https://pypi.org/user/mr-speedster/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=PyPI&logo=pypi&label=&color=3775A9&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="PyPI logo" />
+  </a>
   <a href="https://twitter.com/AjithD47448694/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://wa.me/918138044748" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
   <a href="https://www.instagram.com/mr_speed_ster_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
