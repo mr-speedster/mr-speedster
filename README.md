@@ -32,7 +32,7 @@
 
 ###
 
-<h2 align="left">- 🔭 I’m working as a Associate Software Developer @SOTI<br>-🧑🏻‍💻Python Programmer<br>-💡ML | AI Enthusiast</h2>
+<h2 align="left">- 🔭 I’m working as a Associate Data Engineer @SOTI<br>-🧑🏻‍💻Python Programmer<br>-💡ML | AI Enthusiast</h2>
 
 ###
 
