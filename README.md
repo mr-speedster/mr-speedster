@@ -24,10 +24,6 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1><br>
-
-###
-
 <h1 align="left">👩‍💻  About Me</h1>
 
 ###
