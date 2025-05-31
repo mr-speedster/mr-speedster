@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="left">- 🔭 I’m working as a Associate Data Engineer @SOTI<br>-Azure | 🧑🏻‍💻Python Programmer<br>-💡ML | AI Enthusiast</h2>
+<h2 align="left">- 🔭 I’m working as a Associate Data Engineer @SOTI<br>- Azure | 🧑🏻‍💻Python Programmer<br>-💡ML | AI Enthusiast</h2>
 
 ###
 
